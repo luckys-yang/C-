@@ -1,0 +1,9 @@
+G:\C_Pro\C1\TEST1\TEST1\bin\Debug\TEST1.exe
+G:\C_Pro\C1\TEST1\TEST1\bin\Debug\TEST1.pdb
+G:\C_Pro\C1\TEST1\TEST1\obj\Debug\TEST1.Properties.Resources.resources
+G:\C_Pro\C1\TEST1\TEST1\obj\Debug\TEST1.csproj.GenerateResource.Cache
+G:\C_Pro\C1\TEST1\TEST1\obj\Debug\TEST1.exe
+G:\C_Pro\C1\TEST1\TEST1\obj\Debug\TEST1.pdb
+G:\C_Pro\C1\TEST1\TEST1\obj\Debug\TEST1.csprojResolveAssemblyReference.cache
+G:\C_Pro\C1\TEST1\TEST1\obj\Debug\TEST1.My_EXE.resources
+G:\C_Pro\C1\TEST1\TEST1\obj\Debug\TEST1.Form2.resources
