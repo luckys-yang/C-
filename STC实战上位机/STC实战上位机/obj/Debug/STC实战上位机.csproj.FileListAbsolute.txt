@@ -1,0 +1,8 @@
+G:\C_Pro\C1\STC实战上位机\STC实战上位机\obj\Debug\STC实战上位机.My_EXE.resources
+G:\C_Pro\C1\STC实战上位机\STC实战上位机\obj\Debug\STC实战上位机.csproj.GenerateResource.Cache
+G:\C_Pro\C1\STC实战上位机\STC实战上位机\bin\Debug\STC实战上位机.exe
+G:\C_Pro\C1\STC实战上位机\STC实战上位机\bin\Debug\STC实战上位机.pdb
+G:\C_Pro\C1\STC实战上位机\STC实战上位机\obj\Debug\STC实战上位机.Properties.Resources.resources
+G:\C_Pro\C1\STC实战上位机\STC实战上位机\obj\Debug\STC实战上位机.exe
+G:\C_Pro\C1\STC实战上位机\STC实战上位机\obj\Debug\STC实战上位机.pdb
+G:\C_Pro\C1\STC实战上位机\STC实战上位机\obj\Debug\STC实战上位机.csprojResolveAssemblyReference.cache
